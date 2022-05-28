@@ -26,5 +26,5 @@
 
           
 ### Contato
-<a href='https://www.instagram.com/hi_lucaas_/'> <img src="instagram2.jpg" /></a>
+<a href='https://www.instagram.com/hi_lucaas_/'> <img src="instagram2.jpg" width="40" height="40"/></a>
 
