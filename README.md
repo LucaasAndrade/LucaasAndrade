@@ -1,4 +1,13 @@
-### Hi there 👋
+## Olá, me chamo Lucas! 
+### Bem vindo ao meu perfil GitHub 👋
+
+- 🔭 Atualmente estudo e trabalho como voluntário no Instituto Social Nossa Senhora de Fátima;
+- ✨ Amo codar;
+- 👾 À procura de oportunidades!
+
+### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+          
 
 <!--
 **LucaasAndrade/LucaasAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
