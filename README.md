@@ -1,5 +1,7 @@
 ## Olá, me chamo Lucas! 
 ### Bem vindo ao meu perfil GitHub 👋
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaasAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 - 🔭 Atualmente estudo e trabalho como voluntário no Instituto Social Nossa Senhora de Fátima;
 - ✨ Amo codar;
@@ -22,8 +24,7 @@
           
 <div>
           <a href="https://github.com/LucaasAndrade">
-          <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasAndrade&layout=compact&langs_count=7&theme=dracula"/>
-          <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LucaasAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasAndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
           
