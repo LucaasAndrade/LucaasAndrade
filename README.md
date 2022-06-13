@@ -1,6 +1,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaasAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-### 🧑🏾‍💻​ Ferramentas e Tecnologias
+<hr/>
 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -14,7 +14,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
           
 </div>
-          
+     
+<hr/>
+     
 <div>
           <a href="https://github.com/LucaasAndrade">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasAndrade&layout=compact&langs_count=7&theme=dracula"/>
