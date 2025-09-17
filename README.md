@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou o Fernando Muller Caires
+# 👋 Olá! Eu sou o Lucas Andrade
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndqM3FyZjY0enJocmNjbXFycTZoeDQxZDFzaDBhdHhna28wNjc0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xrZuNcEAmTb6U/giphy.gif" height="160px" alt="Gato Rockeiro" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNheW1jMDVqNjRkOTNuOGI5am5yaWtzbWQ1OWZ0eXNnMzNlcDM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" height="160px" alt="Gato codando" />
 </p>
 
 Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco sempre evoluir e contribuir para o crescimento das equipes com as quais colaboro.
@@ -10,11 +10,11 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formaç�
 
 ## 🚀 Sobre mim
 
-- 🎯 **Objetivo:** Desenvolvedor Full Stack Pleno 
-- 🎓 **Formação:** Técnico em Sistemas para Internet – Senac/SP (conclusão prevista: jan/2026)  
-- 💼 **Atualmente:** Desenvolvedor FullStack Jr [Finnet](https://www.finnet.com.br)  
-- 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com JavaScript, PHP e SQL, utilizando frameworks como Laravel e React, além do uso de ORM (Doctrine) e participação ativa em squads ágeis  
-- 💡 **Interesses:** Desenvolvimento Web, APIs, Laravel, React, Docker, Clean Code, Metodologias Ágeis  
+- 🎯 **Objetivo:** Desenvolvedor Full Stack Júnior 
+- 🎓 **Formação:** Técnico em Sistemas para Internet – Senac/SP (conclusão prevista: dez/2025)  
+- 💼 **Atualmente:** Estudando (muito) 
+- 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com Java, JavaScript, PHP e SQL, utilizando frameworks como Laravel e React, além do uso de ORM (Prisma) e participação  em squads ágeis  
+- 💡 **Interesses:** Desenvolvimento Web, APIs, Java, React, Docker, Clean Code, Metodologias Ágeis  
 
 ---
 
@@ -64,7 +64,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formaç�
 ## 📫 Contato
 
 - 📧 E-mail: [lucasmarcelodeandradesilva@gmail.com](mailto:lucasmarcelodeandradesilva@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/fernando-muller-7334a8258](https://linkedin.com/in/lucaas-andrade/)
+- 💼 LinkedIn: [linkedin.com/in/lucaas-andrade](https://linkedin.com/in/lucaas-andrade/)
 
 ---
 
