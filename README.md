@@ -12,7 +12,7 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formaç�
 
 - 🎯 **Objetivo:** Desenvolvedor Full Stack Júnior 
 - 🎓 **Formação:** Técnico em Sistemas para Internet – Senac/SP (conclusão prevista: dez/2025)  
-- 💼 **Atualmente:** Analista de sistemas na <a link="https://pwi.com.br/"> PWI Sistemas </a> 
+- 💼 **Atualmente:** Analista de sistemas na <a href="https://pwi.com.br/"> PWI Sistemas </a> 
 - 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com Java, JavaScript, PHP e SQL, utilizando frameworks como Laravel e React, além do uso de ORM (Prisma) e participação  em squads ágeis  
 - 💡 **Interesses:** Desenvolvimento Web, APIs, Java, React, Docker, Clean Code, Metodologias Ágeis  
 
